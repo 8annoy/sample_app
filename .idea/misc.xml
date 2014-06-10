@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="sass-stdlib" />
+  </component>
+  <component name="IdProvider" IDEtalkID="0EA2C86743A8A6BE26EC53F2076BBACC" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="RVM: ruby-2.0.0-p451 [railstutorial_rails_4_0]" project-jdk-type="RUBY_SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
